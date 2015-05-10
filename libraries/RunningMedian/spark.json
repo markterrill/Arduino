@@ -1,0 +1,7 @@
+{
+  "name": "RunningMedian",
+  "author": " RobTillaart",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "A fork of rob's library for running median"
+}
